@@ -1,0 +1,16 @@
+.contact{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+flex-wrap: wrap;    
+}

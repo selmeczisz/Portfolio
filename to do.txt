@@ -1,0 +1,6 @@
+to do
+
+- knowledge - képes linkekké tenni a felsorolás
+- színvilág
+- Header ugrál
+- hover a contact nál

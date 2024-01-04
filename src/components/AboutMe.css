@@ -1,0 +1,58 @@
+.about-cards{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    background: rgb(239, 236, 236);
+    margin: 5px  ;
+    border: 1px black solid;
+    gap: 5px;
+    height: 350px;
+    width: 600px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.first{
+    background-image: url("https://images.theconversation.com/files/45159/original/rptgtpxd-1396254731.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=754&h=502&fit=crop&dpr=1");
+    background-size: cover;
+}
+
+.second{
+    background-image: url("https://pilbox.themuse.com/image.jpg?filter=antialias&h=385&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700");
+    background-size: cover;
+}
+
+.third{
+    background-image: url("https://www.uni-corvinus.hu/contents/uploads/2023/10/languages-edited.png");
+    background-size: cover;
+}
+
+.fourth{
+    background-image: url("https://samhin.org/wp-content/uploads/people-hobbies.jpg");
+    background-size: cover;
+}
+
+h6, ul{
+    background-color: rgba(229, 233, 236, 0.8);
+    border-radius: 10px;
+    margin: 1px;
+    padding: 10px;
+}
+
+ul{
+    list-style-type: none;  
+    font-size: 15px;
+
+
+}
+
+.card-container{
+    display: flex;
+    justify-content: space-around;
+    align-items:start;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}

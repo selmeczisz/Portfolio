@@ -1,0 +1,20 @@
+.footer{
+    
+width: 300px;
+    /*border: 2px yellow solid;
+    height: 600px;
+    color: azure;
+    margin: 0 auto;
+    position: 'fixed'!important;
+    bottom: 0!important;
+    z-index:  5000000;
+    display: block;*/
+
+    position: fixed;
+  bottom: 0;
+  width: 100%;
+text-align: center;
+background-color: rgb(63, 61, 61);
+width: 100vw;
+
+}
